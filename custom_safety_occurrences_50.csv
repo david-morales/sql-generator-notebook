@@ -1,0 +1,51 @@
+event_type,aircraft_model,operation_type,phase_of_flight,severity,reported_by,occurrence_date,location,contributing_factors,corrective_actions
+Incident,A320,Commercial,Takeoff,Low,ATC,2025-01-01,Heathrow,Human Error,Procedure Update
+Accident,B737,Cargo,Climb,Medium,Pilot,2025-01-02,JFK,Weather,Additional Training
+Serious Incident,A380,Private,Cruise,High,Ground Crew,2025-01-03,Changi,Technical Failure,Technical Inspection
+Incident,B777,Commercial,Descent,Low,Passenger,2025-01-04,Frankfurt,Bird Strike,Runway Maintenance
+Accident,A320,Cargo,Landing,Medium,ATC,2025-01-05,Dubai,Human Error,Procedure Update
+Serious Incident,B737,Private,Takeoff,High,Pilot,2025-01-06,Heathrow,Weather,Additional Training
+Incident,A380,Commercial,Climb,Low,Ground Crew,2025-01-07,JFK,Technical Failure,Technical Inspection
+Accident,B777,Cargo,Cruise,Medium,Passenger,2025-01-08,Changi,Bird Strike,Runway Maintenance
+Serious Incident,A320,Private,Descent,High,ATC,2025-01-09,Frankfurt,Human Error,Procedure Update
+Incident,B737,Commercial,Landing,Low,Pilot,2025-01-10,Dubai,Weather,Additional Training
+Accident,A380,Cargo,Takeoff,Medium,Ground Crew,2025-01-11,Heathrow,Technical Failure,Technical Inspection
+Serious Incident,B777,Private,Climb,High,Passenger,2025-01-12,JFK,Bird Strike,Runway Maintenance
+Incident,A320,Commercial,Cruise,Low,ATC,2025-01-13,Changi,Human Error,Procedure Update
+Accident,B737,Cargo,Descent,Medium,Pilot,2025-01-14,Frankfurt,Weather,Additional Training
+Serious Incident,A380,Private,Landing,High,Ground Crew,2025-01-15,Dubai,Technical Failure,Technical Inspection
+Incident,B777,Commercial,Takeoff,Low,Passenger,2025-01-16,Heathrow,Bird Strike,Runway Maintenance
+Accident,A320,Cargo,Climb,Medium,ATC,2025-01-17,JFK,Human Error,Procedure Update
+Serious Incident,B737,Private,Cruise,High,Pilot,2025-01-18,Changi,Weather,Additional Training
+Incident,A380,Commercial,Descent,Low,Ground Crew,2025-01-19,Frankfurt,Technical Failure,Technical Inspection
+Accident,B777,Cargo,Landing,Medium,Passenger,2025-01-20,Dubai,Bird Strike,Runway Maintenance
+Serious Incident,A320,Private,Takeoff,High,ATC,2025-01-21,Heathrow,Human Error,Procedure Update
+Incident,B737,Commercial,Climb,Low,Pilot,2025-01-22,JFK,Weather,Additional Training
+Accident,A380,Cargo,Cruise,Medium,Ground Crew,2025-01-23,Changi,Technical Failure,Technical Inspection
+Serious Incident,B777,Private,Descent,High,Passenger,2025-01-24,Frankfurt,Bird Strike,Runway Maintenance
+Incident,A320,Commercial,Landing,Low,ATC,2025-01-25,Dubai,Human Error,Procedure Update
+Accident,B737,Cargo,Takeoff,Medium,Pilot,2025-01-26,Heathrow,Weather,Additional Training
+Serious Incident,A380,Private,Climb,High,Ground Crew,2025-01-27,JFK,Technical Failure,Technical Inspection
+Incident,B777,Commercial,Cruise,Low,Passenger,2025-01-28,Changi,Bird Strike,Runway Maintenance
+Accident,A320,Cargo,Descent,Medium,ATC,2025-01-29,Frankfurt,Human Error,Procedure Update
+Serious Incident,B737,Private,Landing,High,Pilot,2025-01-30,Dubai,Weather,Additional Training
+Incident,A380,Commercial,Takeoff,Low,Ground Crew,2025-01-31,Heathrow,Technical Failure,Technical Inspection
+Accident,B777,Cargo,Climb,Medium,Passenger,2025-02-01,JFK,Bird Strike,Runway Maintenance
+Serious Incident,A320,Private,Cruise,High,ATC,2025-02-02,Changi,Human Error,Procedure Update
+Incident,B737,Commercial,Descent,Low,Pilot,2025-02-03,Frankfurt,Weather,Additional Training
+Accident,A380,Cargo,Landing,Medium,Ground Crew,2025-02-04,Dubai,Technical Failure,Technical Inspection
+Serious Incident,B777,Private,Takeoff,High,Passenger,2025-02-05,Heathrow,Bird Strike,Runway Maintenance
+Incident,A320,Commercial,Climb,Low,ATC,2025-02-06,JFK,Human Error,Procedure Update
+Accident,B737,Cargo,Cruise,Medium,Pilot,2025-02-07,Changi,Weather,Additional Training
+Serious Incident,A380,Private,Descent,High,Ground Crew,2025-02-08,Frankfurt,Technical Failure,Technical Inspection
+Incident,B777,Commercial,Landing,Low,Passenger,2025-02-09,Dubai,Bird Strike,Runway Maintenance
+Accident,A320,Cargo,Takeoff,Medium,ATC,2025-02-10,Heathrow,Human Error,Procedure Update
+Serious Incident,B737,Private,Climb,High,Pilot,2025-02-11,JFK,Weather,Additional Training
+Incident,A380,Commercial,Cruise,Low,Ground Crew,2025-02-12,Changi,Technical Failure,Technical Inspection
+Accident,B777,Cargo,Descent,Medium,Passenger,2025-02-13,Frankfurt,Bird Strike,Runway Maintenance
+Serious Incident,A320,Private,Landing,High,ATC,2025-02-14,Dubai,Human Error,Procedure Update
+Incident,B737,Commercial,Takeoff,Low,Pilot,2025-02-15,Heathrow,Weather,Additional Training
+Accident,A380,Cargo,Climb,Medium,Ground Crew,2025-02-16,JFK,Technical Failure,Technical Inspection
+Serious Incident,B777,Private,Cruise,High,Passenger,2025-02-17,Changi,Bird Strike,Runway Maintenance
+Incident,A320,Commercial,Descent,Low,ATC,2025-02-18,Frankfurt,Human Error,Procedure Update
+Accident,B737,Cargo,Landing,Medium,Pilot,2025-02-19,Dubai,Weather,Additional Training
